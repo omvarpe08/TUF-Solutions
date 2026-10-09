@@ -35,7 +35,7 @@
 | 0017 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.cpp) [CPP](./DSA/General/majority-element-i/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0018 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0019 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [Solution-2](./DSA/General/move-zeros-to-end/Solution-2.cpp) [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0020 | [94. Next Permutation](./DSA/Recursion/next-permutation) | [CPP](./DSA/Recursion/next-permutation/solution.cpp) | ⚪ Unspecified | `Recursion` | `2026-10-09` |
+| 0020 | [94. Next Permutation](./DSA/Recursion/next-permutation) | [CPP](./DSA/Recursion/next-permutation/solution.cpp) [Solution-2](./DSA/Recursion/next-permutation/Solution-2.cpp) | ⚪ Unspecified | `Recursion` | `2026-10-09` |
 | 0021 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
 | 0022 | [161. Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [CPP](./DSA/Arrays/pascals-triangle-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 | 0023 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
