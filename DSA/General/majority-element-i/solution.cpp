@@ -16,6 +16,6 @@ public:
         return -1;
     }
 };
-
+//Brute
 // TC = O(n) average
 // SC = O(n)
