@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **22** | 0 | 22 | 0 | `2026-10-09` |
+| **23** | 0 | 23 | 0 | `2026-10-09` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (22)
+### DSA (23)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -29,15 +29,16 @@
 | 0011 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [Solution-2](./DSA/Arrays/left-rotate-array/Solution-2.cpp) [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0012 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0013 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-10-08` |
-| 0014 | [83. Majority Element-I](./DSA/General/majority-element-i) | [CPP](./DSA/General/majority-element-i/solution.cpp) [Solution-2](./DSA/General/majority-element-i/Solution-2.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0014 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.cpp) [CPP](./DSA/General/majority-element-i/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0015 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0016 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [Solution-2](./DSA/General/move-zeros-to-end/Solution-2.cpp) [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0017 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
-| 0018 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0019 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-08` |
-| 0020 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0021 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0022 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0018 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-1](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-1.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0019 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0020 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-08` |
+| 0021 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0022 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0023 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 
 ---
 
