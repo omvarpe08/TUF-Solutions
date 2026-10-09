@@ -24,7 +24,7 @@
 | 0006 | [299. Fibonacci Number](./DSA/General/fibonacci-number) | [CPP](./DSA/General/fibonacci-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0007 | [116. Find missing number](./DSA/General/find-missing-number) | [Solution-1](./DSA/General/find-missing-number/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0008 | [693. GCD of Two Numbers](./DSA/General/gcd-of-two-numbers) | [CPP](./DSA/General/gcd-of-two-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0009 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0009 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) [Solution-2](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-2.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 | 0010 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0011 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [Solution-2](./DSA/Arrays/left-rotate-array/Solution-2.cpp) [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0012 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
