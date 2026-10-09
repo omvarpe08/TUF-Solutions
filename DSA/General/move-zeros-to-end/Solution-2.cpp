@@ -1,29 +1,27 @@
 class Solution {
 public:
-    vector<int> moveZeroes(int n, vector<int> a) {
+    void moveZeroes(vector<int>& nums) {
         int j = -1;
+        int n = nums.size();
 
         for (int i = 0; i < n; i++) {
-            if (a[i] == 0) {
+            if (nums[i] == 0) {
                 j = i;
                 break;
             }
         }
 
-        // No non-zero numbers
-        if (j == -1) return a;
+        if (j == -1) return;
 
         for (int i = j + 1; i < n; i++) {
-            if (a[i] != 0) {
-                swap(a[i], a[j]);
+            if (nums[i] != 0) {
+                swap(nums[i], nums[j]);
                 j++;
             }
         }
-
-        return a;
     }
 };
 
-//Optimal
+// OPtimal
 // TC = O(n)
 // SC = O(1)
