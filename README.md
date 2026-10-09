@@ -16,7 +16,7 @@
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [21. 3 Sum](./DSA/General/3-sum) | [CPP](./DSA/General/3-sum/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0001 | [21. 3 Sum](./DSA/General/3-sum) | [CPP](./DSA/General/3-sum/solution.cpp) [Solution-2](./DSA/General/3-sum/Solution-2.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0002 | [779. Check for Prime Number](./DSA/General/check-for-prime-number) | [CPP](./DSA/General/check-for-prime-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0003 | [278. Check if String is Palindrome or Not](./DSA/Strings/check-if-string-is-palindrome-or-not-) | [Solution-1](./DSA/Strings/check-if-string-is-palindrome-or-not-/Solution-1.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
 | 0004 | [333. Check if the Array is Sorted II](./DSA/Arrays/check-if-the-array-is-sorted-ii) | [CPP](./DSA/Arrays/check-if-the-array-is-sorted-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
