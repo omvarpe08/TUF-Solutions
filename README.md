@@ -22,7 +22,7 @@
 | 0004 | [278. Check if String is Palindrome or Not](./DSA/Strings/check-if-string-is-palindrome-or-not-) | [Solution-1](./DSA/Strings/check-if-string-is-palindrome-or-not-/Solution-1.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
 | 0005 | [333. Check if the Array is Sorted II](./DSA/Arrays/check-if-the-array-is-sorted-ii) | [CPP](./DSA/Arrays/check-if-the-array-is-sorted-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0006 | [781. Count all Digits of a Number](./DSA/General/count-all-digits-of-a-number) | [CPP](./DSA/General/count-all-digits-of-a-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0007 | [131. Count Inversions](./DSA/General/count-inversions) | [CPP](./DSA/General/count-inversions/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0007 | [131. Count Inversions](./DSA/General/count-inversions) | [CPP](./DSA/General/count-inversions/solution.cpp) [Solution-1](./DSA/General/count-inversions/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0008 | [908. Factorial of a given number](./DSA/General/factorial-of-a-given-number-i) | [Solution-2](./DSA/General/factorial-of-a-given-number-i/Solution-2.cpp) [CPP](./DSA/General/factorial-of-a-given-number-i/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0009 | [299. Fibonacci Number](./DSA/General/fibonacci-number) | [CPP](./DSA/General/fibonacci-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0010 | [116. Find missing number](./DSA/General/find-missing-number) | [Solution-1](./DSA/General/find-missing-number/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
