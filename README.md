@@ -6,18 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **30** | 0 | 30 | 0 | `2026-10-09` |
+| **31** | 0 | 31 | 0 | `2026-10-09` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (30)
+### DSA (31)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [21. 3 Sum](./DSA/General/3-sum) | [Solution-2](./DSA/General/3-sum/Solution-2.cpp) [CPP](./DSA/General/3-sum/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0002 | [169. 4 Sum](./DSA/General/4-sum) | [CPP](./DSA/General/4-sum/solution.cpp) [Solution-2](./DSA/General/4-sum/Solution-2.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0002 | [169. 4 Sum](./DSA/General/4-sum) | [Solution-2](./DSA/General/4-sum/Solution-2.cpp) [CPP](./DSA/General/4-sum/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0003 | [779. Check for Prime Number](./DSA/General/check-for-prime-number) | [CPP](./DSA/General/check-for-prime-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0004 | [278. Check if String is Palindrome or Not](./DSA/Strings/check-if-string-is-palindrome-or-not-) | [Solution-1](./DSA/Strings/check-if-string-is-palindrome-or-not-/Solution-1.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
 | 0005 | [333. Check if the Array is Sorted II](./DSA/Arrays/check-if-the-array-is-sorted-ii) | [CPP](./DSA/Arrays/check-if-the-array-is-sorted-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
@@ -43,9 +43,10 @@
 | 0025 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 | 0026 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0027 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.cpp) [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0028 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0029 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0030 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0028 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0029 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0030 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0031 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 
 ---
 
