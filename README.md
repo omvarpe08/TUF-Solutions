@@ -40,7 +40,7 @@
 | 0022 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-08` |
 | 0023 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 | 0024 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0025 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0025 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 | 0026 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0027 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 
