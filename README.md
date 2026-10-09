@@ -29,7 +29,7 @@
 | 0011 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [Solution-2](./DSA/Arrays/left-rotate-array/Solution-2.cpp) [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0012 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0013 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-10-08` |
-| 0014 | [83. Majority Element-I](./DSA/General/majority-element-i) | [CPP](./DSA/General/majority-element-i/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0014 | [83. Majority Element-I](./DSA/General/majority-element-i) | [CPP](./DSA/General/majority-element-i/solution.cpp) [Solution-2](./DSA/General/majority-element-i/Solution-2.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0015 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0016 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [Solution-2](./DSA/General/move-zeros-to-end/Solution-2.cpp) [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0017 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
