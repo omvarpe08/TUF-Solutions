@@ -24,4 +24,4 @@ public:
         return prev;
     }
 };
-//Optimal - 1
+//Optimal - 1 (Itretive)
