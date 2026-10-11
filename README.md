@@ -68,7 +68,7 @@
 | 0050 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
 | 0051 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
 | 0052 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0053 | [3. Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [CPP](./DSA/Linked-List/reverse-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
+| 0053 | [3. Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [CPP](./DSA/Linked-List/reverse-a-ll/solution.cpp) [Solution-2](./DSA/Linked-List/reverse-a-ll/Solution-2.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
 | 0054 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-08` |
 | 0055 | [152. Reverse Pairs](./DSA/General/reverse-pairs) | [CPP](./DSA/General/reverse-pairs/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0056 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
