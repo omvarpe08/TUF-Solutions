@@ -42,7 +42,7 @@ class Solution {
                 }
                 temp = newNode;
             }
-            zero->next = oneHead->next ? oneHead->next : twoHead->next;
+            zero->next = oneHead->next ? oneHead->next : twoHead->next;    //...condn like this bcoz there maynot one sometime
             one->next = twoHead->next;
 
             return zeroHead->next;
