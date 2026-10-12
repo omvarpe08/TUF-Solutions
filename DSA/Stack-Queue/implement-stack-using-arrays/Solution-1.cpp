@@ -38,3 +38,6 @@ public:
         //return topIdx == -1;
     }
 };
+
+// TC = O(1) ..here u can see operation is taking O(1) TC.
+// SC = O(N) ..array of size N = 1000
