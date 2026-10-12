@@ -13,19 +13,20 @@ class ListNode{
 class Solution {
     public:
         ListNode* sortList(ListNode* &head) {
-            ListNode* zero = new ListNode(0);
-            ListNode* zeroHead = zero;
-            ListNode* one = new ListNode(0);
-            ListNode* oneHead = one;
-            ListNode* two = new ListNode(0);
-            ListNode* twoHead = two;
+
+            ListNode* zeroHead = new ListNode(0);
+            ListNode* zero = zeroHead;
+
+            ListNode* oneHead = new ListNode(0);
+            ListNode* one = oneHead;
+
+            ListNode* twoHead = new ListNode(0);
+            ListNode* two = twoHead;
 
             ListNode* temp = head;
 
             while(temp != NULL) {
 
-                ListNode* newNode = temp->next;
-                temp->next = nullptr;
                 if(temp->data == 0) {
                     zero->next = temp;
                     zero = zero->next;
@@ -40,12 +41,27 @@ class Solution {
                     two->next = temp;
                     two = two->next;
                 }
-                temp = newNode;
+
+                temp = temp->next;
             }
-            zero->next = oneHead->next ? oneHead->next : twoHead->next;    //...condn like this bcoz there maynot one sometime
+
+            zero->next = oneHead->next ? oneHead->next : twoHead->next;   
+             //...condn like this bcoz there maynot one sometime
+
             one->next = twoHead->next;
 
-            return zeroHead->next;
+            two->next = NULL;
+
+            ListNode* newHead = zeroHead->next;
+
+            delete zeroHead;
+            delete oneHead;
+            delete twoHead;
+
+            return newHead;
 
         }
 };
+
+//TC = O(N)
+//SC = O(1)
