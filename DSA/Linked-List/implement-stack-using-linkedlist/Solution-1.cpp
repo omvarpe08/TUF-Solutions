@@ -1,49 +1,49 @@
 class LinkedListStack {
-
     class Node {
     public:
         int data;
         Node* next;
 
-        Node(int data1) {
-            data = data1;
+        Node(int x) {
+            data = x;
             next = nullptr;
         }
     };
 
-    Node* topIdx;
+    Node* topNode;
 
 public:
     LinkedListStack() {
-        topIdx = nullptr;
+        topNode = nullptr;
     }
-    
+
     void push(int x) {
         Node* newNode = new Node(x);
-        newNode->next = topIdx;
-        topIdx = newNode;
-
+        newNode->next = topNode;
+        topNode = newNode;
     }
-    
+
     int pop() {
         if (isEmpty()) return -1;
 
-        int x = topIdx->data;
-        Node* temp = topIdx;
-        topIdx = topIdx->next;
+        int val = topNode->data;
+        Node* temp = topNode;
+        topNode = topNode->next;
         delete temp;
-        return x;
+
+        return val;
     }
-    
+
     int top() {
         if (isEmpty()) return -1;
-        return topIdx->data;
+        return topNode->data;
     }
-    
+
     bool isEmpty() {
-        return topIdx == nullptr;
+        return topNode == nullptr;
     }
 };
+
 
 // TC = O(1) ...for all operations
 // SC = O(N) ...for N elements.
