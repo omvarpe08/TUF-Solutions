@@ -34,13 +34,13 @@ public:
     int pop() {
         if(isEmpty()) return -1;
 
-        if(topIdx == curr) {
-            int val = topIdx->data;
-            delete topIdx;
-            topIdx = nullptr;
-            curr = nullptr;
-            return val;
-        }
+        // if(topIdx == curr) {
+        //     int val = topIdx->data;
+        //     delete topIdx;
+        //     topIdx = nullptr;
+        //     curr = nullptr;
+        //     return val;
+        // }
         int val = topIdx->data;
         Node* temp = topIdx;
         topIdx = topIdx->next;
