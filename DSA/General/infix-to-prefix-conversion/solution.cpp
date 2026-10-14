@@ -50,8 +50,8 @@ public:
             // Operator
             else {
                 while (!st.empty() && st.top() != '(' &&
-                    (priority(st.top()) > priority(ch) ||
-                    (priority(st.top()) == priority(ch) &&
+                       (priority(st.top()) > priority(ch) ||
+                       (priority(st.top()) == priority(ch) &&
                         ch == '^'))) {
                     ans += st.top();
                     st.pop();
