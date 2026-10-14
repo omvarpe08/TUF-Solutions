@@ -23,3 +23,7 @@ public:
         return st.top();
     }
 };
+
+//TC = O(2N) = O(N)  ...N for for loop & N for addn of two string takes O(N1 + N2) time where N1 is length of first string & N2 is length of second string which might be O(N) in worst case.
+
+//SC = O(N)  ...stack
