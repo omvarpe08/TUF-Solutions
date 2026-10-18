@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **85** | 0 | 85 | 0 | `2026-10-18` |
+| **86** | 0 | 86 | 0 | `2026-10-18` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (85)
+### DSA (86)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -98,9 +98,10 @@
 | 0080 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-12` |
 | 0081 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 | 0082 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0083 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [CPP](./DSA/Arrays/sum-of-subarray-minimums/solution.cpp) [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
-| 0084 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0085 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0083 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.cpp) [CPP](./DSA/Arrays/sum-of-subarray-minimums/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
+| 0084 | [359. Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [Solution-1](./DSA/Arrays/sum-of-subarray-ranges/Solution-1.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
+| 0085 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0086 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 
 ---
 
