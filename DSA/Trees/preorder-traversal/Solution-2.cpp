@@ -11,10 +11,10 @@
 class Solution{
 	public:
 		vector<int> preorder(TreeNode* root){
-	        vector<int> ans;
+	        vector<int> preorder;
 
             if(root == NULL) {
-                return ans;
+                return preorder;
             }
 
             stack<TreeNode*> st;
@@ -25,7 +25,7 @@ class Solution{
                 root = st.top();
                 st.pop();
 
-                ans.push_back(root->data);
+                preorder.push_back(root->data);
 
                 if(root->right != NULL) {
                     st.push(root->right);
@@ -36,7 +36,7 @@ class Solution{
                 } 
             }
 
-            return ans;
+            return preorder;
 		}
 };
 
