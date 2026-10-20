@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **86** | 0 | 86 | 0 | `2026-10-18` |
+| **87** | 0 | 87 | 0 | `2026-10-20` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (86)
+### DSA (87)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -49,59 +49,60 @@
 | 0031 | [155. Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [CPP](./DSA/Stack-Queue/implement-stack-using-queue/solution.cpp) | ⚪ Unspecified | `Stack-Queue` | `2026-10-13` |
 | 0032 | [930. Infix to Postfix Conversion](./DSA/General/infix-to-postfix-conversion) | [Solution-2](./DSA/General/infix-to-postfix-conversion/Solution-2.cpp) [CPP](./DSA/General/infix-to-postfix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
 | 0033 | [963. Infix to Prefix Conversion](./DSA/General/infix-to-prefix-conversion) | [Solution-1](./DSA/General/infix-to-prefix-conversion/Solution-1.cpp) [Solution-2](./DSA/General/infix-to-prefix-conversion/Solution-2.cpp) [CPP](./DSA/General/infix-to-prefix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
-| 0034 | [927. Insert before given node in Doubly Linked List](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0035 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0036 | [971. Insert node before (kth node) in Doubly Linked List](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0037 | [985. Insert node before tail in Doubly Linked List](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0038 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0039 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0040 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0041 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [CPP](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0042 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0043 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [Solution-1](./DSA/General/kadane's-algorithm/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0044 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0045 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [Solution-2](./DSA/Arrays/left-rotate-array/Solution-2.cpp) [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
-| 0046 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
-| 0047 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-10-08` |
-| 0048 | [97. Longest Consecutive Sequence in an Array](./DSA/Arrays/longest-consecutive-sequence-in-an-array) | [Solution-2](./DSA/Arrays/longest-consecutive-sequence-in-an-array/Solution-2.cpp) [CPP](./DSA/Arrays/longest-consecutive-sequence-in-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-10` |
-| 0049 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.cpp) [CPP](./DSA/General/majority-element-i/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0050 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [CPP](./DSA/General/majority-element-ii/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0051 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0052 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [CPP](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0053 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [Solution-1](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-1.cpp) [Solution-2](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-2.cpp) [Solution-3](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-3.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0054 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [Solution-2](./DSA/General/move-zeros-to-end/Solution-2.cpp) [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0055 | [102. Next Greater Element](./DSA/General/next-greater-element) | [Solution-1](./DSA/General/next-greater-element/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-15` |
-| 0056 | [300. Next Greater Element - 2](./DSA/General/next-greater-element---2) | [Solution-1](./DSA/General/next-greater-element---2/Solution-1.cpp) [Solution-2](./DSA/General/next-greater-element---2/Solution-2.cpp) [CPP](./DSA/General/next-greater-element---2/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0057 | [94. Next Permutation](./DSA/Recursion/next-permutation) | [Solution-2](./DSA/Recursion/next-permutation/Solution-2.cpp) [CPP](./DSA/Recursion/next-permutation/solution.cpp) | ⚪ Unspecified | `Recursion` | `2026-10-09` |
-| 0058 | [194. Next Smaller Element](./DSA/General/next-smaller-element) | [Solution-1](./DSA/General/next-smaller-element/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-16` |
-| 0059 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
-| 0060 | [161. Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [CPP](./DSA/Arrays/pascals-triangle-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0061 | [987. Postfix to Infix Conversion](./DSA/General/postfix-to-infix-conversion) | [Solution-1](./DSA/General/postfix-to-infix-conversion/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
-| 0062 | [989. Postfix to Prefix Conversion](./DSA/General/postfix-to-prefix-conversion) | [Solution-1](./DSA/General/postfix-to-prefix-conversion/Solution-1.cpp) [CPP](./DSA/General/postfix-to-prefix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
-| 0063 | [999. Prefix to Infix Conversion](./DSA/General/prefix-to-infix-conversion) | [Solution-1](./DSA/General/prefix-to-infix-conversion/Solution-1.cpp) [CPP](./DSA/General/prefix-to-infix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
-| 0064 | [1003. Prefix to Postfix Conversion](./DSA/General/prefix-to-postfix-conversion) | [CPP](./DSA/General/prefix-to-postfix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
-| 0065 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0066 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-1](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-1.cpp) [Solution-2](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-2.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0067 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0068 | [281. Remove K Digits](./DSA/General/remove-k-digits) | [CPP](./DSA/General/remove-k-digits/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-18` |
-| 0069 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
-| 0070 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0071 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0072 | [3. Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [Solution-1](./DSA/Linked-List/reverse-a-ll/Solution-1.cpp) [Solution-2](./DSA/Linked-List/reverse-a-ll/Solution-2.cpp) [CPP](./DSA/Linked-List/reverse-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
-| 0073 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-08` |
-| 0074 | [152. Reverse Pairs](./DSA/General/reverse-pairs) | [CPP](./DSA/General/reverse-pairs/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
-| 0075 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0076 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0077 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0078 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
-| 0079 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.cpp) [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0080 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-12` |
-| 0081 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0082 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0083 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.cpp) [CPP](./DSA/Arrays/sum-of-subarray-minimums/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
-| 0084 | [359. Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [Solution-1](./DSA/Arrays/sum-of-subarray-ranges/Solution-1.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
-| 0085 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0086 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0034 | [32. Inorder Traversal](./DSA/Trees/inorder-traversal) | [CPP](./DSA/Trees/inorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-10-20` |
+| 0035 | [927. Insert before given node in Doubly Linked List](./DSA/General/insert-before-given-node-in-dll) | [CPP](./DSA/General/insert-before-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0036 | [980. Insert node before head in Doubly Linked List](./DSA/General/insert-node-before-head-in-dll) | [CPP](./DSA/General/insert-node-before-head-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0037 | [971. Insert node before (kth node) in Doubly Linked List](./DSA/General/insert-node-before-kth-node-in-dll) | [CPP](./DSA/General/insert-node-before-kth-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0038 | [985. Insert node before tail in Doubly Linked List](./DSA/General/insert-node-before-tail-in-dll) | [CPP](./DSA/General/insert-node-before-tail-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0039 | [941. Insertion at the head of Linked List](./DSA/Linked-List/insertion-at-the-head-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-head-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0040 | [954. Insertion at the Kth position of Linked List](./DSA/Linked-List/insertion-at-the-kth-position-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-kth-position-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0041 | [958. Insertion at the tail of Linked List](./DSA/Linked-List/insertion-at-the-tail-of-ll) | [CPP](./DSA/Linked-List/insertion-at-the-tail-of-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0042 | [967. Insertion before the value X in Linked List](./DSA/Linked-List/insertion-before-the-value-x-in-ll) | [CPP](./DSA/Linked-List/insertion-before-the-value-x-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0043 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/intersection-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0044 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [Solution-1](./DSA/General/kadane's-algorithm/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0045 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0046 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [Solution-2](./DSA/Arrays/left-rotate-array/Solution-2.cpp) [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
+| 0047 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
+| 0048 | [838. Linear Search](./DSA/General/linear-search) | [CPP](./DSA/General/linear-search/solution.cpp) | ⚪ Unspecified | `Binary-Search` | `2026-10-08` |
+| 0049 | [97. Longest Consecutive Sequence in an Array](./DSA/Arrays/longest-consecutive-sequence-in-an-array) | [Solution-2](./DSA/Arrays/longest-consecutive-sequence-in-an-array/Solution-2.cpp) [CPP](./DSA/Arrays/longest-consecutive-sequence-in-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-10` |
+| 0050 | [83. Majority Element-I](./DSA/General/majority-element-i) | [Solution-2](./DSA/General/majority-element-i/Solution-2.cpp) [CPP](./DSA/General/majority-element-i/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0051 | [119. Majority Element-II](./DSA/General/majority-element-ii) | [CPP](./DSA/General/majority-element-ii/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0052 | [213. Maximum Consecutive Ones](./DSA/General/maximum-consecutive-ones) | [CPP](./DSA/General/maximum-consecutive-ones/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0053 | [48. Maximum Product Subarray in an Array](./DSA/Arrays/maximum-product-subarray-in-an-array) | [CPP](./DSA/Arrays/maximum-product-subarray-in-an-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0054 | [146. Merge two sorted arrays without extra space](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space) | [Solution-1](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-1.cpp) [Solution-2](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-2.cpp) [Solution-3](./DSA/Arrays/merge-two-sorted-arrays-without-extra-space/Solution-3.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0055 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [Solution-2](./DSA/General/move-zeros-to-end/Solution-2.cpp) [CPP](./DSA/General/move-zeros-to-end/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0056 | [102. Next Greater Element](./DSA/General/next-greater-element) | [Solution-1](./DSA/General/next-greater-element/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-15` |
+| 0057 | [300. Next Greater Element - 2](./DSA/General/next-greater-element---2) | [Solution-1](./DSA/General/next-greater-element---2/Solution-1.cpp) [Solution-2](./DSA/General/next-greater-element---2/Solution-2.cpp) [CPP](./DSA/General/next-greater-element---2/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-16` |
+| 0058 | [94. Next Permutation](./DSA/Recursion/next-permutation) | [Solution-2](./DSA/Recursion/next-permutation/Solution-2.cpp) [CPP](./DSA/Recursion/next-permutation/solution.cpp) | ⚪ Unspecified | `Recursion` | `2026-10-09` |
+| 0059 | [194. Next Smaller Element](./DSA/General/next-smaller-element) | [Solution-1](./DSA/General/next-smaller-element/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-16` |
+| 0060 | [211. Palindrome Number](./DSA/Strings/palindrome-number) | [CPP](./DSA/Strings/palindrome-number/solution.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
+| 0061 | [161. Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [CPP](./DSA/Arrays/pascals-triangle-i/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0062 | [987. Postfix to Infix Conversion](./DSA/General/postfix-to-infix-conversion) | [Solution-1](./DSA/General/postfix-to-infix-conversion/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
+| 0063 | [989. Postfix to Prefix Conversion](./DSA/General/postfix-to-prefix-conversion) | [Solution-1](./DSA/General/postfix-to-prefix-conversion/Solution-1.cpp) [CPP](./DSA/General/postfix-to-prefix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
+| 0064 | [999. Prefix to Infix Conversion](./DSA/General/prefix-to-infix-conversion) | [Solution-1](./DSA/General/prefix-to-infix-conversion/Solution-1.cpp) [CPP](./DSA/General/prefix-to-infix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
+| 0065 | [1003. Prefix to Postfix Conversion](./DSA/General/prefix-to-postfix-conversion) | [CPP](./DSA/General/prefix-to-postfix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
+| 0066 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0067 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-1](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-1.cpp) [Solution-2](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-2.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0068 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0069 | [281. Remove K Digits](./DSA/General/remove-k-digits) | [CPP](./DSA/General/remove-k-digits/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-18` |
+| 0070 | [81. Remove Nth node from the back of the LL](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll) | [Solution-2](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/Solution-2.cpp) [CPP](./DSA/Linked-List/remove-nth-node-from-the-back-of-the-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
+| 0071 | [820. Removing given node in Doubly Linked List](./DSA/General/removing-given-node-in-dll) | [CPP](./DSA/General/removing-given-node-in-dll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0072 | [601. Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [CPP](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0073 | [3. Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [Solution-1](./DSA/Linked-List/reverse-a-ll/Solution-1.cpp) [Solution-2](./DSA/Linked-List/reverse-a-ll/Solution-2.cpp) [CPP](./DSA/Linked-List/reverse-a-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
+| 0074 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-08` |
+| 0075 | [152. Reverse Pairs](./DSA/General/reverse-pairs) | [CPP](./DSA/General/reverse-pairs/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
+| 0076 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0077 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0078 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0079 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
+| 0080 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.cpp) [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0081 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-12` |
+| 0082 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0083 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0084 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.cpp) [CPP](./DSA/Arrays/sum-of-subarray-minimums/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
+| 0085 | [359. Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [Solution-1](./DSA/Arrays/sum-of-subarray-ranges/Solution-1.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
+| 0086 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0087 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 
 ---
 
