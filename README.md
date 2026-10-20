@@ -83,7 +83,7 @@
 | 0065 | [168. Postorder Traversal](./DSA/Trees/postorder-traversal) | [CPP](./DSA/Trees/postorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-10-20` |
 | 0066 | [999. Prefix to Infix Conversion](./DSA/General/prefix-to-infix-conversion) | [Solution-1](./DSA/General/prefix-to-infix-conversion/Solution-1.cpp) [CPP](./DSA/General/prefix-to-infix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
 | 0067 | [1003. Prefix to Postfix Conversion](./DSA/General/prefix-to-postfix-conversion) | [CPP](./DSA/General/prefix-to-postfix-conversion/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-14` |
-| 0068 | [42. Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-10-20` |
+| 0068 | [42. Preorder Traversal](./DSA/Trees/preorder-traversal) | [CPP](./DSA/Trees/preorder-traversal/solution.cpp) [Solution-2](./DSA/Trees/preorder-traversal/Solution-2.cpp) | ⚪ Unspecified | `Trees` | `2026-10-20` |
 | 0069 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [CPP](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 | 0070 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [Solution-1](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-1.cpp) [Solution-2](./DSA/Arrays/rearrange-array-elements-by-sign/Solution-2.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 | 0071 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [CPP](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
