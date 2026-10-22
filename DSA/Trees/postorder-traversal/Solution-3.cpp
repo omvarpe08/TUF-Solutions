@@ -45,9 +45,13 @@ class Solution{
             return postorder;
 		}
 };
+
 //remember code is little harder so give little more effort on it
 //Iterative - 2 (1 stack)
 //TC = O(2N)  ...N : num of Node
 //              we are travesing at each node twice thus O(2N);
 
-//SC = O(N)  ...here we are also using vector<int> postorder but we can ignore it bcoz we are using it for storing or returning answer.
+//SC = O(H)  ..auxiliary space for the recursion stack, where H is the tree height;                         worst case : Degenerate (Skewed) Binary Tree O(N). 
+
+//...here we are also using vector<int> postorder but we can ignore it bcoz we are using it for storing or returning answer.
+//Output space: O(N) ...postorder vector.
