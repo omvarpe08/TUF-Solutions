@@ -23,6 +23,8 @@ public:
     }
 };
 
+//we can also solve this question by level order traversal
+
 //TC = O(N)  ..we are visiting each node & we cant improve it bcoz we had to visit each node
 
 //SC = O(H)  ...recursion stack, where H is the tree height; worst case O(N), balanced tree O(log N).
