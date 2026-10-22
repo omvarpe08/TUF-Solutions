@@ -37,6 +37,7 @@ public:
     }
 };
 
+//Brute
 //TC: O(N^2) in the worst case, because maxDepth() is repeatedly called at each node.
 //SC: O(H) auxiliary space for recursion, where \(H\) is the tree height. 
 //worst case : Degenerate (Skewed) Binary Tree O(N), Best Case : balanced tree O(log N).
