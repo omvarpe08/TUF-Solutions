@@ -48,4 +48,6 @@ class Solution{
 //TC = O(N)  ...N : num of Node
 //              we are travesing at each node thus O(N);
 
-//SC = O(2N)   ...2 stacks
+//SC = O(N)   ...2 stacks ...both stacks can store nodes.
+
+//Output space: O(N) for the postorder vector.
