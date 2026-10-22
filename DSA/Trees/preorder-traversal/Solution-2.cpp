@@ -44,4 +44,8 @@ class Solution{
 //TC = O(N)  ...N : num of node
 //              we are travesing at each node thus O(N);
 
-//SC = O(N)   ...in worst case stack stores n nodes.
+//SC = O(H)   ...here stack can store maxm of H node same time, where H is the tree height.
+//              ...worst case : Degenerate (Skewed) Binary Tree O(N)
+//              ...Auxiliary SC
+
+//Output space: O(N) for the preorder vector.
