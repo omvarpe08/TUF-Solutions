@@ -21,7 +21,7 @@
 | 0003 | [93. Add two numbers in Linked List](./DSA/Linked-List/add-two-numbers-in-ll) | [Solution-1](./DSA/Linked-List/add-two-numbers-in-ll/Solution-1.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
 | 0004 | [85. Asteroid Collision](./DSA/General/asteroid-collision) | [CPP](./DSA/General/asteroid-collision/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-17` |
 | 0005 | [164. Balanced Paranthesis](./DSA/General/balanced-paranthesis) | [CPP](./DSA/General/balanced-paranthesis/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-13` |
-| 0006 | [53. Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [CPP](./DSA/Trees/check-for-balanced-binary-tree/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-10-22` |
+| 0006 | [53. Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [CPP](./DSA/Trees/check-for-balanced-binary-tree/solution.cpp) [Solution-2](./DSA/Trees/check-for-balanced-binary-tree/Solution-2.cpp) | ⚪ Unspecified | `Trees` | `2026-10-22` |
 | 0007 | [779. Check for Prime Number](./DSA/General/check-for-prime-number) | [CPP](./DSA/General/check-for-prime-number/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
 | 0008 | [278. Check if String is Palindrome or Not](./DSA/Strings/check-if-string-is-palindrome-or-not-) | [Solution-1](./DSA/Strings/check-if-string-is-palindrome-or-not-/Solution-1.cpp) | ⚪ Unspecified | `Strings` | `2026-10-08` |
 | 0009 | [333. Check if the Array is Sorted II](./DSA/Arrays/check-if-the-array-is-sorted-ii) | [CPP](./DSA/Arrays/check-if-the-array-is-sorted-ii/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
