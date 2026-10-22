@@ -15,7 +15,7 @@ public:
         if (root->left == NULL && root->right == NULL) {
             return true;
         }
-        
+
         int sum = 0;
 
         if(root->left != NULL) {
@@ -33,3 +33,10 @@ public:
         return checkChildrenSum(root->left) && checkChildrenSum(root->right);
     }
 };
+
+//same soln with little more standerd way in tab 2
+
+//TC = O(N)   ...travesing all nodes
+
+//SC: O(H) auxiliary space for recursion, where H is the tree height. 
+//worst case : Degenerate (Skewed) Binary Tree O(N), Best Case : balanced tree O(log N).
