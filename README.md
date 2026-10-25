@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **97** | 0 | 97 | 0 | `2026-10-22` |
+| **98** | 0 | 98 | 0 | `2026-10-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (97)
+### DSA (98)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -102,17 +102,18 @@
 | 0084 | [101. Reverse a number](./DSA/General/reverse-a-number) | [CPP](./DSA/General/reverse-a-number/solution.cpp) | 🟡 Medium | `General` | `2026-10-08` |
 | 0085 | [152. Reverse Pairs](./DSA/General/reverse-pairs) | [CPP](./DSA/General/reverse-pairs/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0086 | [70. Rotate matrix by 90 degrees](./DSA/Arrays/rotate-matrix-by-90-degrees) | [CPP](./DSA/Arrays/rotate-matrix-by-90-degrees/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0087 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
-| 0088 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0089 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
-| 0090 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.cpp) [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0091 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-12` |
-| 0092 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0093 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0094 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.cpp) [CPP](./DSA/Arrays/sum-of-subarray-minimums/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
-| 0095 | [359. Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [Solution-1](./DSA/Arrays/sum-of-subarray-ranges/Solution-1.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
-| 0096 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
-| 0097 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0087 | [13. Search in BST](./DSA/Trees/search-in-bst) | [CPP](./DSA/Trees/search-in-bst/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-10-25` |
+| 0088 | [1039. Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [CPP](./DSA/Linked-List/search-in-linked-list/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-10` |
+| 0089 | [695. Second Largest Element](./DSA/General/second-largest-element) | [CPP](./DSA/General/second-largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0090 | [110. Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [CPP](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-11` |
+| 0091 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [Solution-2](./DSA/Arrays/set-matrix-zeroes/Solution-2.cpp) [CPP](./DSA/Arrays/set-matrix-zeroes/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0092 | [778. Sort a Linked List of 0's 1's and 2's](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's) | [CPP](./DSA/Linked-List/sort-a-ll-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Linked-List` | `2026-10-12` |
+| 0093 | [36. Sort an array of 0's 1's and 2's](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's) | [CPP](./DSA/Arrays/sort-an-array-of-0's-1's-and-2's/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0094 | [932. Sum of First N Numbers](./DSA/General/sum-of-first-n-numbers) | [CPP](./DSA/General/sum-of-first-n-numbers/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
+| 0095 | [331. Sum of Subarray Minimums](./DSA/Arrays/sum-of-subarray-minimums) | [Solution-2](./DSA/Arrays/sum-of-subarray-minimums/Solution-2.cpp) [CPP](./DSA/Arrays/sum-of-subarray-minimums/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
+| 0096 | [359. Sum of Subarray Ranges](./DSA/Arrays/sum-of-subarray-ranges) | [Solution-1](./DSA/Arrays/sum-of-subarray-ranges/Solution-1.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-18` |
+| 0097 | [1. Two Sum](./DSA/Arrays/two-sum) | [CPP](./DSA/Arrays/two-sum/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
+| 0098 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [Solution-2](./DSA/Arrays/union-of-two-sorted-arrays/Solution-2.cpp) [CPP](./DSA/Arrays/union-of-two-sorted-arrays/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-09` |
 
 ---
 
