@@ -71,7 +71,7 @@
 | 0053 | [12. Kadane's Algorithm](./DSA/General/kadane's-algorithm) | [Solution-1](./DSA/General/kadane's-algorithm/Solution-1.cpp) | ⚪ Unspecified | `General` | `2026-10-09` |
 | 0054 | [33. Kth Smallest and Largest element in BST](./DSA/Trees/kth-smallest-and-largest-element-in-bst) | [Solution-1](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Solution-1.cpp) [Solution-2](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Solution-2.cpp) | ⚪ Unspecified | `Trees` | `2026-11-01` |
 | 0055 | [702. Largest Element](./DSA/General/largest-element) | [CPP](./DSA/General/largest-element/solution.cpp) | ⚪ Unspecified | `General` | `2026-10-08` |
-| 0056 | [55. LCA in BST](./DSA/Trees/lca-in-bst) | [Solution-1](./DSA/Trees/lca-in-bst/Solution-1.cpp) | ⚪ Unspecified | `Trees` | `2026-11-01` |
+| 0056 | [55. LCA in BST](./DSA/Trees/lca-in-bst) | [Solution-1](./DSA/Trees/lca-in-bst/Solution-1.cpp) [Solution-2](./DSA/Trees/lca-in-bst/Solution-2.cpp) | ⚪ Unspecified | `Trees` | `2026-11-01` |
 | 0057 | [237. Left Rotate Array by K Places](./DSA/Arrays/left-rotate-array) | [Solution-2](./DSA/Arrays/left-rotate-array/Solution-2.cpp) [CPP](./DSA/Arrays/left-rotate-array/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0058 | [832. Left Rotate Array by One](./DSA/Arrays/left-rotate-array-by-one) | [CPP](./DSA/Arrays/left-rotate-array-by-one/solution.cpp) | ⚪ Unspecified | `Arrays` | `2026-10-08` |
 | 0059 | [4. Level Order Traversal](./DSA/Trees/level-order-traversal) | [Solution-1](./DSA/Trees/level-order-traversal/Solution-1.cpp) [CPP](./DSA/Trees/level-order-traversal/solution.cpp) | ⚪ Unspecified | `Trees` | `2026-10-22` |
