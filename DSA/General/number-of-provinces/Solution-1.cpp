@@ -39,3 +39,5 @@ public:
 //SC = O(N) + O(N) = O(2N) = O(N)  ..vis + queue
 
 //one more wayy in tab-2
+
+//we can also do it by DFS 
